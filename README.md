@@ -5,4 +5,4 @@
  
 Codes for STDOD Will be released soon.
 
-Tweaking matconvent for new version of cuda. 
+Configuring matconvent for new version of cuda. 
