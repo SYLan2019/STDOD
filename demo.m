@@ -8,7 +8,7 @@ setup_paths();
 base_path ='.';
 %base_path ='/media/ubuntu/3333ab47-aee1-468f-87c5-ec39b552ab00/tmpdata/sunshipeng/lsycp_datasets/TC128_dataset/Temple-color-128';
 %video = choose_video(base_path);
-video = 'Face_ce';
+video = 'Girl2';
 
 video_path = [base_path '/' video];
 [seq, gt_boxes] = load_video(video_path,video);
