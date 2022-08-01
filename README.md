@@ -1,5 +1,5 @@
 # STDOD
- A visual object tracking method where we take into account the difference between occlusion and self-deformation in a spatial-temporal regularised DCF filter.
+ A visual object tracking method where we take into account the difference between occlusion and self-deformation in a spatial-temporal regularised DCF filter. (Robust Visual Object Tracking with Spatiotemporal Regularisation and Discriminative Occlusion Deformation, International Conference on Image Processing (ICIP). IEEE, 2021, pp. 1879-1883.)
 
  In this demo video, a comparison of our approach (red) with STRCF (green), HCFstar (blue), ASRCF (yellow),  and GFSDCF (cyan) on the first 240 frames of Girl2 sequence  from OTB100. 
 
