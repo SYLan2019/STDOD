@@ -10,7 +10,7 @@ Along with our tidying process, Codes for STDOD Will be released gradually.
 Configuring matconvent for new version of cuda. 
 
 
-## *. Citing Skip-Attention-GANomaly
+## []. Citing STDOD
 
 If you use this repository or would like to refer the paper, please use the following BibTeX entry
 ```
