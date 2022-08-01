@@ -8,3 +8,18 @@ In this work, we We have referenced and borrowed codes from the GFSDCF tracker (
 Along with our tidying process, Codes for STDOD Will be released gradually.
 
 Configuring matconvent for new version of cuda. 
+
+
+## *. Citing Skip-Attention-GANomaly
+
+If you use this repository or would like to refer the paper, please use the following BibTeX entry
+```
+ @inproceedings{lan2021robust,
+  title={Robust Visual Object Tracking with Spatiotemporal Regularisation and Discriminative Occlusion Deformation},
+  author={Lan, Shiyong and Li, Jin and Sun, Shipeng and Lai, Xin and Wang, Wenwu},
+  booktitle={2021 IEEE International Conference on Image Processing (ICIP)},
+  pages={1879--1883},
+  year={2021},
+  organization={IEEE}
+}
+```
